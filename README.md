@@ -2,9 +2,7 @@
 
 There are 2 ways to run a nodejs app:
 
-1.
-
-```
+1.```
 node app.js
 ```
 
