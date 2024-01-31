@@ -11,6 +11,6 @@ There are 2 ways to run a nodejs app:
 
 Nodejs can also run strings on the terminal like so:
 
-`node -e "console.log('JavaScript for the win!)"`
+`node -e "console.log('JavaScript is 🔥')"`
 
 -e flag stands for --eval
