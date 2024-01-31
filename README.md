@@ -10,6 +10,7 @@ There are 2 ways to run a nodejs app:
    - Make your nodejs file excutable: `chmod u+x app.js`, then run the file in the terminal `./app.js`
 
 Nodejs can also run strings on the terminal like so:
+
 `node -e "console.log('JavaScript for the win!)"`
 
 -e flag stands for --eval
